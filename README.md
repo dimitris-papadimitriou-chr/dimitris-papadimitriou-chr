@@ -1,6 +1,6 @@
 ### Hi there 👋
 
- <h3 align="center">More than 14 years’ experience as full stack developer and Software Architect</h3>
+ <h3 align="left">More than 14 years’ experience as full stack developer and Software Architect</h3>
 
 
 <p align="left">  <img src="https://devicons.github.io/devicon/devicon.git/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/java/java-original-wordmark.svg" alt="java" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>   <img src="https://devicons.github.io/devicon/devicon.git/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/></p><p align="center">

@@ -1,8 +1,5 @@
 ### Hi there 👋
 
- <h3 align="left">More than 14 years’ experience as full stack developer and Software Architect</h3>
-
-
 <p align="left">  <img src="https://devicons.github.io/devicon/devicon.git/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/java/java-original-wordmark.svg" alt="java" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>   <img src="https://devicons.github.io/devicon/devicon.git/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/></p><p align="center">
 <a href="https://linkedin.com/in/dimitrispapadimitriou" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="dimitrispapadimitriou" height="30" width="30" /></a>
 <a href="https://codesandbox.com/dimitris-papadimitriou-chr" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codesandbox.svg" alt="dimitris-papadimitriou-chr" height="30" width="30" /></a>

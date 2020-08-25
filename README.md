@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+[![dimitris papadimitriou](https://github-readme-medium.vercel.app/?username=dimpapadim3)](https://medium.com/@dimpapadim3)
+
+
 <!--
 **dimitris-papadimitriou-chr/dimitris-papadimitriou-chr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

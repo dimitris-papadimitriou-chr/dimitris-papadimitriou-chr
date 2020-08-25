@@ -8,8 +8,7 @@
 <a href="https://codesandbox.com/dimitris-papadimitriou-chr" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codesandbox.svg" alt="dimitris-papadimitriou-chr" height="30" width="30" /></a>
 <a href="https://medium.com/@dimpapadim3" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="@dimpapadim3" height="30" width="30" /></a>
 </p>
-📝 I regulary write articles on [https://medium.com/@dimpapadim3](https://medium.com/@dimpapadim3)
-
+ 
 <!--
 **dimitris-papadimitriou-chr/dimitris-papadimitriou-chr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

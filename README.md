@@ -7,7 +7,7 @@ you can find me at:
 
 <p align="left">
 <a href="https://linkedin.com/in/dimitrispapadimitriou" target="blank"><img align="left" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="dimitrispapadimitriou" height="30" width="30" /></a>
-<a href="https://codesandbox.com/dimitris-papadimitriou-chr" target="blank"><img left="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codesandbox.svg" alt="dimitris-papadimitriou-chr" height="30" width="30" /></a>
+<a href="https://codesandbox.io/u/dimitris-papadimitriou-chr" target="blank"><img left="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codesandbox.svg" alt="dimitris-papadimitriou-chr" height="30" width="30" /></a>
 <a href="https://medium.com/@dimpapadim3" target="blank"><img align="left" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="@dimpapadim3" height="30" width="30" /></a>
 </p>
 

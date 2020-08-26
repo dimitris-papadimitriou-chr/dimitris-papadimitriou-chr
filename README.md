@@ -10,7 +10,7 @@ you can find me at:
 </p>
 Supporting : 
 
-[[![](https://i0.wp.com/openlogicproject.org/wp-content/uploads/2015/08/openlogic-wm.png?w=100&ssl=1)](34y)](https://openlogicproject.org/")
+[![](https://i0.wp.com/openlogicproject.org/wp-content/uploads/2015/08/openlogic-wm.png?w=100&ssl=1)](https://openlogicproject.org/ "![](https://i0.wp.com/openlogicproject.org/wp-content/uploads/2015/08/openlogic-wm.png?w=100&ssl=1)")
 
 The [Homototpy Type Book](https://homotopytypetheory.org/book/)
 

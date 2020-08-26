@@ -9,7 +9,9 @@ you can find me at:
 <a href="https://medium.com/@dimpapadim3" target="blank"><img align="left" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="@dimpapadim3" height="30" width="30" /></a>
 </p>
 Supporting : 
+
 The [Open Logic Project](https://openlogicproject.org/)
+
 The [Homototpy Type Book](https://homotopytypetheory.org/book/)
 
 <!--

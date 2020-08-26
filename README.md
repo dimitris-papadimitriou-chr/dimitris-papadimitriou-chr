@@ -8,7 +8,10 @@ you can find me at:
 <a href="https://codesandbox.com/dimitris-papadimitriou-chr" target="blank"><img left="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codesandbox.svg" alt="dimitris-papadimitriou-chr" height="30" width="30" /></a>
 <a href="https://medium.com/@dimpapadim3" target="blank"><img align="left" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="@dimpapadim3" height="30" width="30" /></a>
 </p>
- 
+Supporting : 
+The [Open Logic Project](https://openlogicproject.org/)
+The [Homototpy Type Book](https://homotopytypetheory.org/book/)
+
 <!--
 **dimitris-papadimitriou-chr/dimitris-papadimitriou-chr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

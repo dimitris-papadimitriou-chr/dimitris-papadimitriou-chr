@@ -12,8 +12,7 @@ Supporting :
 
 [![](https://i0.wp.com/openlogicproject.org/wp-content/uploads/2015/08/openlogic-wm.png?w=100&ssl=1)](https://openlogicproject.org/ "![](https://i0.wp.com/openlogicproject.org/wp-content/uploads/2015/08/openlogic-wm.png?w=100&ssl=1)")
 
-The [Homototpy Type Book](https://homotopytypetheory.org/book/)
-
+ 
 <!--
 **dimitris-papadimitriou-chr/dimitris-papadimitriou-chr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
